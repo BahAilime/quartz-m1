@@ -8,15 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "🦠 BioStat/Epi M1",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: { provider: 'posthog', apiKey: 'phc_KHz8AitjwgbUmjB1Df33rSQv6L0vRU0RsijfeyjYcS5', host: 'https://eu.posthog.com' },
+    locale: "fr-FR",
+    baseUrl: "m1.croqui.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Accueil
 ---
+# Master Biologie-Santé Niveau:1
+aaaa
+## Option: BIOSTATISTIQUE EPIDÉMIOLOGIE
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Sources des informations de la partie "Personnel": [univ-nantes.fr](https://www.univ-nantes.fr/)
+
+
+![[Fiche_Pedagogique_Emilia_Beguin.pdf]]
+
+![[info_generale.pdf]]
