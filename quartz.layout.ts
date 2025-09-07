@@ -38,7 +38,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        const omit = new Set(["emilia"])
+
+        return !omit.has(node.displayName.toLocaleLowerCase())
+      }
+    }),
   ],
   right: [
     Component.Graph(),
