@@ -1,0 +1,1 @@
+Un système de gestion de bases de données relationnelles ([[SGBDR]]) puissant et commercial, largement utilisé dans les entreprises pour gérer des données critiques.

@@ -1,0 +1,13 @@
+- OLTP -> (On Line Transaction Processing)
+- OLAP -> (On Line Analytical Processing)
+
+| Critères                | OLAP                                                                                                         | OLTP                                                                                                        |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| Objectif                | OLAP vous aide à analyser de grands volumes de données pour faciliter la prise de décision.                  | OLTP vous aide à gérer et à traiter les transactions en temps réel.                                         |
+| Source de données       | OLAP utilise des données historiques et agrégées provenant de plusieurs sources.                             | OLTP utilise des données transactionnelles et en temps réel provenant d'une source unique.                  |
+| Structure des données   | OLAP utilise des bases de données multidimensionnelles (cubes) ou relationnelles.                            | OLTP utilise des bases de données relationnelles.                                                           |
+| Modèle de données       | OLAP utilise un schéma en étoile, un schéma en flocon de neige ou d'autres modèles analytiques.              | OLTP utilise des modèles normalisés ou dénormalisés.                                                        |
+| Volume de données       | OLAP a des exigences de stockage importantes. Pensez en termes de téraoctets (To) et de pétaoctets (Po).     | OLTP a des exigences de stockage relativement réduites. Pensez en termes de gigaoctets (Go).                |
+| Temps de réponse        | OLAP a des temps de réponse plus longs, généralement de quelques secondes ou minutes.                        | OLTP a des temps de réponse plus courts, généralement de l'ordre de la milliseconde                         |
+| Exemples d'applications | OLAP permet d'analyser les tendances, de prévoir le comportement des clients et d'identifier la rentabilité. | OLTP convient au traitement des paiements, à la gestion des données clients et au traitement des commandes. |
+Source : https://aws.amazon.com/fr/compare/the-difference-between-olap-and-oltp/

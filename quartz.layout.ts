@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       filterFn: (node) => {
-        const omit = new Set(["emilia"])
+        const omit = new Set(["Émilia c:"])
 
         return !omit.has(node.displayName.toLocaleLowerCase())
       }

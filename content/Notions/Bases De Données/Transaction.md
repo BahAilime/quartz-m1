@@ -1,0 +1,1 @@
+Une séquence d'opérations sur une base de données qui est traitée comme une seule unité logique. Soit toutes les opérations sont réussies, soit aucune ne l'est, assurant la cohérence et l'intégrité des données.

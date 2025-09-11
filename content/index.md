@@ -15,7 +15,9 @@ title: Accueil
 
 ## Carte
 
-![Carte Campus Lombarderie](https://www.univ-nantes.fr/medias/photo/campus-lombarderie_1728912045117-png?ID_FICHE=605720)
+![Carte Campus Lombarderie](https://www.univ-nantes.fr/medias/photo/campus-lombarderie_1728912045117-png)
+
+![Carte Campus Centre Loire](https://www.univ-nantes.fr/medias/photo/campus-centre-loire_1728911976597-png)
 
 ## Scylabus
 

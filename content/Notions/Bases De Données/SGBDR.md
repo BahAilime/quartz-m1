@@ -1,0 +1,1 @@
+Une catégorie plus spécifique de [[SGBD]], qui utilise le modèle relationnel (tables, lignes, colonnes, clés) pour organiser les données.

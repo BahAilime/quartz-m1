@@ -1,0 +1,1 @@
+Un système de gestion de bases de données relationnelles ([[SGBDR]]) open-source et populaire, utilisé pour stocker et gérer des données de manière efficace.

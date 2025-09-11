@@ -1,0 +1,1 @@
+Une occurrence spécifique d'une entité. C'est un enregistrement ou une ligne dans une [[table]] de la base de données (si on prend l'exemple de la base de données relationnelle). Par exemple, si "Étudiant" est une entité, une « instance » serait "Jean Dupont", avec ses valeurs pour chaque [[Attribut UML|attribut]]. Une instance représente un élément spécifique d'une [[entité]].

@@ -1,0 +1,1 @@
+Le SGBD (Système de Gestion de Bases de Données) est un logiciel qui permet de stocker, gérer et organiser des données de manière structurée, facilitant l'accès, la modification et la gestion des informations.

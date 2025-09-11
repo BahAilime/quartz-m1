@@ -1,0 +1,1 @@
+Un objet ou un concept du monde réel que l'on représente et stocke dans une base de données. C'est une catégorie de choses qui partagent les mêmes propriétés (attributs). (ex : un "étudiant", un "produit", une "commande").
