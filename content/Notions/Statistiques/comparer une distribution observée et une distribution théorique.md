@@ -1,0 +1,1 @@
+Hypothèse nulle: est ce que $\mu = \mu_0$ 
