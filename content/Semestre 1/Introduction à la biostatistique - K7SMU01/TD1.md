@@ -21,3 +21,7 @@ $IC_{95\%} = [\bar x - 1,96 \times \sqrt{\frac{s^2}{n}} ; \bar x + 1,96 \times \
 
 
 condition d'application $n >= 30$
+
+
+# Exercice 2
+
